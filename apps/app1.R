@@ -7,3 +7,4 @@ output$nvd3plot <- renderChart({
   n1$set(dom = 'nvd3plot', width = 600)
   n1
 })
+
